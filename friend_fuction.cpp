@@ -92,4 +92,10 @@ int main()
 }
 
 
-
+/*
+Enter The number of FaceBook user
+10
+Enter The number of GooglePlus user
+20
+Googleplus is more popular
+*/
