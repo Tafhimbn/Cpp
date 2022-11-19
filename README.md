@@ -3,16 +3,25 @@
 ## Index
 
 C++ Program
+
 C++ cout, cin, endl
+
 C++ Variable
+
 C++ Data types
+
 C++ Keywords
+
 C++ Operators
 
 ### C++ Control Statement
+
 C++ if-else
+
 C++ switch
+
 C++ For Loop
+
 C++ While Loop
 C++ Do-While Loop
 C++ Break Statement
@@ -21,42 +30,63 @@ C++ Goto Statement
 C++ Comments
 
 ### C++ Functions
+
 C++ Functions
+
 Call by value & reference
+
 C++ Recursion
+
 C++ Storage Classes
+
 C++ Arrays
 
 ### C++ Arrays
+
 C++ Array to Function
+
 Multidimensional Arrays
+
 C++ Pointers
 
 ### C++ Pointers
+
 C++ Object Class
 
 ### C++ OOPs Concepts
 C++ Object Class
+
 C++ Constructor
+
 C++ Destructor
+
 C++ this Pointer
+
 C++ static
+
 C++ Structs
+
 C++ Enumeration
+
 C++ Friend Function
 
 ### C++ Inheritance
 C++ Inheritance
+
 C++ Aggregation
 
 ### C++ Polymorphism
 C++ Polymorphism
+
 C++ Overloading
+
 C++ Overriding
+
 C++ Virtual Function
 
 ### C++ Abstraction
 C++ Interfaces
+
 C++ Data Abstraction
 
 ### C++ Namespaces
@@ -70,264 +100,504 @@ C++ Strings
 
 ### C++ Exceptions
 C++ Exception Handling
+
 C++ try/catch
+
 C++ User-Defined
 
 ### C++ File & Stream
+
 C++ File & Stream
 
 ### C++ Programs
 C++Programs
+
 Fibonacci Series
+
 Prime Number
+
 Palindrome Number
+
 Factorial
+
 Armstrong Number
+
 Sum of digits
+
 Reverse Number
+
 Swap Number
+
 Matrix Multiplication
+
 Decimal to Binary
+
 Number in Characters
+
 Alphabet Triangle
+
 Number Triangle
+
 Fibonacci Triangle
 
 ### C++ STL Tutorial
 C++ STL Algorithm
+
 algorithm adjacent_find() function
+
 algorithm any_of() function
+
 algorithm copy() function
+
 algorithm copy_if() function
+
 algorithm count() function
+
 algorithm count_if() function
+
 algorithm equal() function
+
 algorithm find() function
+
 algorithm find_end() function
+
 algorithm find_first_of() function
+
 algorithm find_if() function
+
 algorithm find_if_not() function
+
 algorithm for_each() function
+
 algorithm move() function
+
 algorithm all_of() function
+
 algorithm copy_backward() function
+
 algorithm copy_n() function
+
 algorithm search() function
+
 algorithm is_permutation() function
+
 algorithm mismatch() function
+
 algorithm move_backward() function
+
 algorithm none_of() function
+
 algorithm search_n() function
+
 algorithm swap() function
+
 algorithm fill() function
+
 algorithm iter_swap() function
+
 algorithm replace_copy_if() function
+
 algorithm replace_copy() function
+
 algorithm replace_if() function
+
 algorithm replace() function
+
 algorithm swap_ranges() function
+
 algorithm transform() function
+
 algorithm fill_n() function
+
 algorithm generate_n() function
+
 algorithm generate() function
+
 algorithm remove() function
+
 algorithm is_partitioned() function
+
 algorithm random_shuffle() function
+
 algorithm remove_copy_if() function
+
 algorithm remove_copy() function
+
 algorithm partition_copy() function
+
 algorithm partition_point() function
+
 algorithm partition() function
+
 algorithm remove_if() function
+
 algorithm reverse_copy() function
+
 algorithm reverse() function
+
 algorithm rotate_copy() function
+
 algorithm rotate() function
+
 algorithm shuffle() function
+
 algorithm stable_partition() function
+
 algorithm unique_copy() function
+
 algorithm unique() function
+
 algorithm is_sorted_until() function
+
 algorithm is_sorted() function
+
 algorithm lower_bound() function
+
 algorithm nth_element() function
+
 algorithm partial_sort_copy() function
+
 algorithm partial_sort() function
+
 algorithm sort() function
+
 algorithm stable_sort() function
+
 algorithm binary_search() function
+
 algorithm equal_range() function
+
 algorithm includes() function
+
 algorithm inplace_merge() function
+
 algorithm merge() function
+
 algorithm set_union() function
+
 algorithm upper_bound() function
 
 ### C++ STL Bitset
+
 C++ Bitset
+
 bitset all() function
+
 bitset any() function
+
 bitset count() function
+
 bitset flip() function
+
 bitset none() function
+
 bitset operator[]
+
 bitset reset() function
+
 bitset set() function
+
 bitset size() function
+
 bitset test() function
+
 bitset to_string() function
+
 bitset to_ullong() function
+
 bitset to_ulong() function
 
 ### C++ STL Deque
+
 C++ Deque
+
 Deque assign() function
+
 Deque emplace() function
+
 Deque emplace_back() function
+
 Deque emplace_front() function
+
 Deque insert() function
+
 Deque push_back() function
+
 Deque push_front() function
+
 Deque pop_back() function
+
 Deque pop_front() function
+
 Deque swap() function
+
 Deque clear() function
+
 Deque empty() function
+
 Deque erase() function
+
 Deque max_size() function
+
 Deque resize() function
+
 Deque shrink_to_fit() function
+
 Deque size() function
+
 Deque at() function
+
 Deque operator[]() function
+
 Deque operator=() function
+
 Deque back() function
+
 Deque begin() function
+
 Deque cbegin() function
+
 Deque end() function
+
 Deque cend() function
+
 Deque rbegin() function
+
 Deque crbegin() function
+
 Deque rend() function
+
 Deque crend() function
 
 ### C++ STL List
+
 C++ List
+
 List insert() function
+
 List push_back() function
+
 List push_front() function
+
 List pop_back() function
+
 List pop_front() function
+
 List empty() function
+
 List size() function
+
 List max_size() function
+
 List front() function
+
 List back() function
+
 List swap() function
+
 List reverse() function
+
 List sort() function
+
 List merge() function
+
 List splice() function
+
 List unique() function
+
 List resize() function
+
 List assign() function
+
 List emplace() function
+
 List emplace_back() function
+
 List emplace_front() function
 
 ### C++ STL Map
 C++ Map
+
 map at() function
+
 map begin() function
+
 map cbegin() function
+
 map cend() function
+
 map crbegin() function
+
 map crend() function
+
 map empty() function
+
 map end() function
+
 map max_size() function
+
 map operator[]
+
 map rbegin() function
+
 map rend() function
+
 map size() function
+
 map clear() function
+
 map emplace() function
+
 map emplace_hint() function
+
 map erase() function
+
 map find() function
+
 map insert() function
+
 map operator=()
+
 map swap() function
 
 ### C++ STL Math
+
 math cos() function
+
 math sin() function
+
 math tan() function
+
 math acos() function
+
 math asin() function
+
 math atan() function
+
 math atan2() function
+
 math cosh() function
+
 math sinh() function
+
 math tanh() function
+
 math acosh() function
+
 math asinh() function
+
 math atanh() function
+
 math exp() function
+
 math frexp() function
+
 math Idexp() function
+
 math log() function
+
 math log10() function
+
 math modf() function
+
 math exp2() function
+
 math expm1() function
+
 math log1p() function
+
 math log2() function
+
 math logb() function
+
 math scalbn() function
+
 math scalbln() function
+
 math ilogb() function
+
 math copysign() function
+
 math nextafter() function
+
 math nexttoward() function
+
 math fdim() function
+
 math fmax() function
+
 math fmin() function
+
 math pow() function
+
 math sqrt() function
+
 math cbrt() function
+
 math hypot() function
+
 math ceil() function
+
 math floor() function
+
 math round() function
+
 math lround() function
+
 math llround() function
+
 math fmod() function
+
 math trunc() function
+
 math rint() function
+
 math lrint() function
+
 math llrint() function
+
 math nearbyint() function
+
 math remainder() function
+
 math remquo() function
+
 math fabs() function
+
 math abs() function
+
 math fma() function
+
 math fpclassify() function
+
 math isfinite() function
+
 math isinf() function
+
 math isnan() function
+
 math isnormal() function
+
 math signbit() function
+
 math isgreater() function
+
 math isgreaterequal() function
+
 math less() function
+
 math islessequal() function
+
 math islessgreater() function
+
 math isunordered() function
+
 math erf() function
+
 math erfc() function
+
 math tgamma() function
+
 math lgamma() function
 
 ### C++ STL priority_queue
