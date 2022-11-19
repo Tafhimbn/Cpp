@@ -1,3 +1,15 @@
+/*  Problem statements: 
+Create an application which will have 2 classes called "FaceBook" and "GooglePlus". 
+Both the classes will have the following:
+DATA MEMBERS:
+i. an integer which represent the number of user 
+MEMBER FUNCTIONS:
+i. A constructor which initialize its private members.
+Write a function called ‘void compare(FaceBook, GooglePlus)' which will print which social media is more popular based on their number of user.
+You should decide whether the functions should be friendly or not.
+Test the program using main function.
+*/
+
 #include <iostream>
 using namespace std;
 class Googleplus;
